@@ -69,5 +69,35 @@ font-size: 20px;
     text-align: center;
 }
 
+.container-grid2{
+    display: grid;
+    grid-gap:2px;
+    grid-template-columns:auto auto auto;
+    grid-template-rows: 400px 400px 400px;
+    background-color: #333; 
+    margin: 0 auto;
+    width: 100%;
+
+}
+.grid5,
+.grid7{
+    background-color:rgb(83, 83, 83);
+
+}
+.tittle-grid2{
+    font-size: 29px;
+    padding: 20px;
+    text-align: center;
+    color:white;
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 50px;
+}
     
-  
+  .text-grid2{
+      font-size: 20px;
+padding: 20px;
+text-align: center;
+font-weight: lighter;
+font-family: 'Noto Serif', serif;
+  }
