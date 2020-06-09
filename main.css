@@ -1,7 +1,10 @@
 body,
-nav{
+nav
+{
     margin: 0 auto;
     width: 100%;
+    font-family: 'Balsamiq Sans', cursive;
+    color:white;
 }
 .nav-bar1{
   height: 100px;
@@ -13,7 +16,7 @@ nav{
 font-size: 20px;
      list-style: none;
     display: inline;
-    font-family: 'Balsamiq Sans', cursive;
+   
 
 }
 .nav-item{
@@ -25,5 +28,46 @@ font-size: 20px;
    
     width: 100px;
     border-radius: 5px;
-    
 }
+.container-grid{
+    display: grid;
+    grid-gap:2px;
+    grid-template-columns:auto auto;
+    grid-template-rows: 600px 600px;
+    background-color: #333; 
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.grid1,
+.grid2{
+    background-color: rgb(75, 75, 75);
+}
+.grid3,
+.grid4 {
+    background-color: rgb(66, 66, 66);
+}
+.square{
+    margin-top: 180px ;
+    margin-left: 50px;
+    width: 85px;
+    background-color: violet;
+    height: 85px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+}
+.text-square1{
+    padding: 20px;
+    text-align: center;
+}
+
+.text-square2{
+    font-size: 35px;
+    padding: 20px;
+    text-align: center;
+}
+
+    
+  
