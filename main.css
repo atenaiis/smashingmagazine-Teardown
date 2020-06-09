@@ -1,0 +1,29 @@
+body,
+nav{
+    margin: 0 auto;
+    width: 100%;
+}
+.nav-bar1{
+  height: 100px;
+   background-color: rgb(52, 53, 53);
+  text-align: center;
+  align-items: center;
+}
+.nav-list>li{
+font-size: 20px;
+     list-style: none;
+    display: inline;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+.nav-item{
+    margin: 25px ;
+    color: white;
+    text-decoration: none;
+}
+.logo{
+   
+    width: 100px;
+    border-radius: 5px;
+    
+}
