@@ -1,6 +1,6 @@
 # smashingmagazine-Teardown
 This project consists of building a heatmap of the [this](https://www.smashingmagazine.com/)
-![screenshot](.assets/things/screenshoot.PNG)
+![screenshot](.assets/things/./screenshoot.png)
 
 
 I created this project in the Workarea branch.
