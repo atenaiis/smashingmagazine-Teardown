@@ -154,6 +154,11 @@ html{
     width: 205px;
   }
 
+  .middle-section2{
+    background-color: rgb(148, 150, 150);
+    height: 550px;
+}
+
 .grid8,
 .grid10{
     background-color:rgb(138, 134, 138);
@@ -165,7 +170,7 @@ html{
 }
 
 .container-grid3{
-     background-color:rgb(138, 134, 138);
+         background-color:rgb(138, 134, 138);
         display: grid;
         grid-gap:2px;
         grid-template-columns:auto auto ;
@@ -209,10 +214,9 @@ html{
 .container-grid4{
     background-color: rgb(160, 156, 160); 
     display: grid;
-    grid-gap:2px;
+    
     grid-template-columns:auto auto;
-    grid-template-rows: 450px 450px;
-    margin: 0 auto;
+    grid-template-rows: 470px 470px;
     width: 100%;
 }
 
@@ -227,11 +231,6 @@ html{
     font-size: 25px;
     justify-content: center;
     padding: 30px 25px 0 25px;
-}
-
-.middle-section2{
-    background-color: rgb(148, 150, 150);
-    height: 400px;
 }
 
 .bottom-list{
