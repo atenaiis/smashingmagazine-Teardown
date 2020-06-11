@@ -11,7 +11,7 @@ HTML5
 CSS
 
 
-## [Live Link](https://rawcdn.githack.com/atenaiis/smashingmagazine-Teardown/680d7e785affae2f2d47d72813651df88880b8d9/style.html)
+## [Live Link](https://rawcdn.githack.com/atenaiis/smashingmagazine-Teardown/2458241643c29a574d9c0e17c6019e53cbeff81f/style.html)
 
 ## Authors
 
