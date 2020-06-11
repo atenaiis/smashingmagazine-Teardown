@@ -1,5 +1,4 @@
 # smashingmagazine-Teardown
-
 This project consists of building a heatmap of the [this](https://www.smashingmagazine.com/)
 
 ![screenshot](./assets/things/screenshot.png)
@@ -20,10 +19,8 @@ CSS
 - Github: @atenaiis
 - Twitter: @spranomarian
 
+
 ## Show your support
-
 Give a ⭐️ if you like this project!
-
 ## Acknowledgments
-
 Thanks to Team 123 Ocicats and Team 121 Ragdolls.
