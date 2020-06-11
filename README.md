@@ -32,4 +32,3 @@ Thanks to Team 123 Ocicats and Team 121 Ragdolls.
 
 ## 📝 License
 
-This project has no license.
