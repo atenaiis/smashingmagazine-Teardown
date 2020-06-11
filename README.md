@@ -30,6 +30,4 @@ Give a ⭐️ if you like this project!
 
 Thanks to Team 123 Ocicats and Team 121 Ragdolls.
 
-## 📝 License
-
 
