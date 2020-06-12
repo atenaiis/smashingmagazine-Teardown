@@ -37,6 +37,7 @@ html {
   grid-template-columns: auto auto;
   grid-template-rows: 600px 600px;
   margin: 0 auto;
+  text-align: center;
   width: 100%;
 }
 
@@ -174,19 +175,11 @@ html {
   display: grid;
   grid-gap: 2px;
   grid-template-columns: auto auto;
-  grid-template-rows: 400px;
-  margin-top: 10px;
+  grid-template-rows: 300px 300px 300px;
+  margin-top: 50px;
   padding: 40px;
 }
 
-.grid11,
-.grid12,
-.grid13,
-.grid14,
-.grid15,
-.grid16 {
-  margin-top: 50px;
-}
 
 .text-grid3-1 {
   font-size: 25px;
