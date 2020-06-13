@@ -10,7 +10,7 @@ I created this project in the Workarea branch.
 HTML5
 CSS
 
-## [Live Link](https://rawcdn.githack.com/atenaiis/smashingmagazine-Teardown/2458241643c29a574d9c0e17c6019e53cbeff81f/style.html)
+## [Live Link](https://rawcdn.githack.com/atenaiis/smashingmagazine-Teardown/1b2cb7d357b69c0987bd59c40fc6aeaeec0464f8/style.html)
 
 ## Authors
 
