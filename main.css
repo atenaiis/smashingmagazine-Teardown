@@ -1,7 +1,7 @@
 html {
   background-color: #333;
   color: white;
-  font-family: 'Balsamiq Sans', cursive;
+  font-family: "Balsamiq Sans", cursive;
   margin: 0;
   width: 100%;
 }
@@ -99,7 +99,7 @@ html {
 }
 
 .text-grid2 {
-  font-family: 'Noto Serif', serif;
+  font-family: "Noto Serif", serif;
   font-size: 20px;
   font-weight: lighter;
   text-align: center;
@@ -180,7 +180,6 @@ html {
   padding: 40px;
 }
 
-
 .text-grid3-1 {
   font-size: 25px;
   padding-right: 250px;
@@ -192,7 +191,7 @@ html {
 }
 
 .text-grid3 {
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 20px;
   font-weight: 100;
   padding-left: 100px;
@@ -222,7 +221,7 @@ html {
 }
 
 .text-grid4 {
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 25px;
   justify-content: center;
   padding: 30px 25px 0 25px;
