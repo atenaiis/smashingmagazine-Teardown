@@ -5,6 +5,9 @@ html {
   margin: 0;
   width: 100%;
 }
+h2{
+  display: none;
+}
 
 .nav-bar1 {
   align-items: center;
