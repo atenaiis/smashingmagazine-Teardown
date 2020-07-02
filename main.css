@@ -1,0 +1,262 @@
+html {
+  background-color: #333;
+  color: white;
+  font-family: "Balsamiq Sans", cursive;
+  margin: 0;
+  width: 100%;
+}
+
+h2 {
+  display: none;
+}
+
+.nav-bar1 {
+  align-items: center;
+  background-color: rgb(136, 136, 136);
+  height: 100px;
+  text-align: center;
+}
+
+.nav-list > li {
+  display: inline;
+  font-size: 20px;
+  list-style: none;
+}
+
+.nav-item {
+  color: white;
+  margin: 25px;
+  text-decoration: none;
+}
+
+.logo {
+  border-radius: 5px;
+  width: 100px;
+}
+
+.container-grid {
+  display: grid;
+  grid-gap: 2px;
+  grid-template-columns: auto auto;
+  grid-template-rows: 600px 600px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+
+.grid1,
+.grid2,
+.container-grid {
+  background-color: rgb(45, 45, 46);
+}
+
+.grid3,
+.grid4,
+.grid6 {
+  background-color: rgb(66, 66, 66);
+}
+
+.square {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 5px;
+  height: 85px;
+  margin-top: 180px;
+  margin-left: 50px;
+  width: 85px;
+}
+
+.text-square1 {
+  padding: 20px;
+  text-align: center;
+}
+
+.text-square2 {
+  font-size: 35px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container-grid2 {
+  background-color: #333;
+  display: grid;
+  grid-gap: 2px;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 300px;
+}
+
+.grid5,
+.grid7,
+.square,
+.square-middle {
+  background-color: rgb(83, 83, 83);
+}
+
+.tittle-grid2 {
+  color: white;
+  cursor: pointer;
+  font-size: 29px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.text-grid2 {
+  font-family: "Noto Serif", serif;
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+  padding: 20px;
+}
+
+.grid-adds {
+  background-color: #333;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 300px 800px;
+  grid-template-rows: 400px;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.grid-ad,
+.grid-ad2 {
+  padding: 50px;
+  text-align: center;
+}
+
+.tittle-ad {
+  font-size: 35px;
+}
+
+.grid-ad {
+  background-color: rgb(151, 151, 151);
+}
+
+.grid-ad2 {
+  background-color: rgb(134, 132, 132);
+  border-radius: 5px;
+}
+
+.middle-section {
+  display: grid;
+  grid-template-rows: 300px 300px;
+}
+
+.middle-section1 {
+  background-color: rgb(172, 169, 169);
+}
+
+.square-middle {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 5px;
+  height: 205px;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 205px;
+}
+
+.middle-section2 {
+  background-color: rgb(148, 150, 150);
+  height: 550px;
+}
+
+.container-grid3,
+.grid8,
+.grid10,
+.middle-section {
+  background-color: rgb(138, 134, 138);
+}
+
+.grid9 {
+  background-color: rgb(104, 101, 101);
+}
+
+.container-grid3 {
+  display: grid;
+  grid-gap: 2px;
+  grid-template-columns: auto auto;
+  grid-template-rows: 300px 300px 300px;
+  margin-top: 50px;
+  padding: 40px;
+}
+
+.text-grid3-1 {
+  font-size: 25px;
+  padding-right: 250px;
+}
+
+.text-grid3-1,
+.text-grid3 {
+  float: right;
+}
+
+.text-grid3 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding-left: 100px;
+}
+
+.square-grid3 {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 5px;
+  height: 85px;
+  padding: 30px 20px 30px 25px;
+}
+
+.container-grid4 {
+  background-color: rgb(160, 156, 160);
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: 470px 470px;
+  width: 100%;
+}
+
+.tittle-grid4 {
+  font-size: 30px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.text-grid4 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 25px;
+  justify-content: center;
+  padding: 30px 25px 0 25px;
+}
+
+.bottom-list {
+  background-color: rgb(184, 182, 182);
+  margin-top: 0 auto;
+  text-align: center;
+}
+
+.list-elements > li {
+  font-size: 20px;
+  list-style: none;
+  padding: 50px;
+}
+
+.footer-list > li {
+  display: inline-block;
+  font-size: small;
+  padding: 30px 20px;
+}
+
+.bottom-list > ul > li {
+  display: inline;
+  justify-content: space-between;
+  line-height: 40px;
+}
+
+.footer-text {
+  font-size: small;
+  text-align: center;
+  padding: 60px 300px 0 300px;
+}
+
+.bottom-list2 {
+  margin: 10px 200px;
+}
